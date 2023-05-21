@@ -1,0 +1,10 @@
+.{
+    .name = "xenia-glass",
+    .version = "0.0.1",
+    .dependencies = .{
+        .xev = .{
+            .url = "https://github.com/mitchellh/libxev/archive/e7d4e6dfd208b4d90715766f92aeaf0163e4bdd9.tar.gz",
+            .hash = "12209139a4a4ec1970b9e79da7ea1c58178663c533103a1fa699982301b8a87f137a"
+        },
+    },
+}
